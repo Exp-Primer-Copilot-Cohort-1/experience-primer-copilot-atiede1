@@ -17,4 +17,4 @@ app.listen(port, () => {
 
 // Run the server using node comments.js and visit http://localhost:3000/comments in your browser. You should see the message This is a route for /comments. 
 
-// Now you have a server with a route for /comments. You can add more routes to the server by creating more app.get or app.post calls.
+// Now you have a server with a route for /comments. You can add more routes to the server by creating more app.get or app.post calls
